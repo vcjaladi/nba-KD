@@ -1,0 +1,78 @@
+,AST,FG2A,FG2M,FG2_PCT,FG3A,FG3M,FG3_PCT,FGA,FGM,FG_PCT,FREQUENCY,G,PASS,PASS_TEAMMATE_PLAYER_ID,PASS_TO,PASS_TYPE,PLAYER_ID,PLAYER_NAME_LAST_FIRST,Playoff,TEAM_ABBREVIATION,TEAM_ID,TEAM_NAME,Name,ID
+0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.002,62,0.06,2004318071," ,",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,0
+1,0.11,0.06,0.03,0.5,0.16,0.08,0.5,0.23,0.11,0.5,0.026,62,0.97,1627775,"McCaw, Patrick",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,1
+2,0.1,0.1,0.1,1.0,0.0,0.0,,0.1,0.1,1.0,0.008,62,0.29,1626172,"Looney, Kevon",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,2
+3,0.08,0.08,0.08,1.0,0.0,0.0,,0.08,0.08,1.0,0.007,62,0.26,203949,"McAdoo, James Michael",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,3
+4,0.39,0.39,0.21,0.542,0.35,0.21,0.591,0.74,0.42,0.565,0.057,62,2.16,203546,"Clark, Ian",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,4
+5,0.47,0.61,0.26,0.421,0.69,0.26,0.372,1.31,0.52,0.395,0.168,62,6.35,203110,"Green, Draymond",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,5
+6,1.29,1.18,0.69,0.589,1.42,0.74,0.523,2.6,1.44,0.553,0.135,62,5.1,202691,"Thompson, Klay",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,6
+7,1.06,1.53,0.82,0.537,1.77,0.9,0.509,3.31,1.73,0.522,0.279,62,10.55,201939,"Curry, Stephen",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,7
+8,0.27,0.39,0.32,0.833,0.0,0.0,,0.39,0.32,0.833,0.017,62,0.63,201580,"McGee, JaVale",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,8
+9,0.02,0.02,0.02,1.0,0.0,0.0,,0.02,0.02,1.0,0.003,62,0.1,2760,"Varejao, Anderson",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,9
+10,0.31,0.32,0.21,0.65,0.48,0.16,0.333,0.81,0.37,0.46,0.097,62,3.68,2738,"Iguodala, Andre",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,10
+11,0.13,0.55,0.31,0.559,0.0,0.0,,0.55,0.31,0.559,0.1,62,3.79,2733,"Livingston, Shaun",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,11
+12,0.31,0.53,0.32,0.606,0.0,0.0,,0.53,0.32,0.606,0.062,62,2.35,2585,"Pachulia, Zaza",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,12
+13,0.31,0.55,0.31,0.559,0.0,0.0,,0.55,0.31,0.559,0.042,62,1.58,2561,"West, David",made,201142,"Durant, Kevin",,GSW,1610612744,Golden State Warriors,Kevin Durant,13
+14,0.2,0.07,0.07,1.0,0.13,0.13,1.0,0.2,0.2,1.0,0.03,15,1.0,1627775,"McCaw, Patrick",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,14
+15,0.2,0.13,0.13,1.0,0.2,0.07,0.333,0.33,0.2,0.6,0.02,15,0.67,203546,"Clark, Ian",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,15
+16,0.6,1.07,0.47,0.438,0.4,0.2,0.5,1.47,0.67,0.455,0.191,15,6.4,203110,"Green, Draymond",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,16
+17,1.0,1.33,0.53,0.4,1.6,0.67,0.417,2.93,1.2,0.409,0.165,15,5.53,202691,"Thompson, Klay",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,17
+18,0.87,2.07,1.07,0.516,1.4,0.6,0.429,3.47,1.67,0.481,0.314,15,10.53,201939,"Curry, Stephen",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,18
+19,0.4,0.4,0.4,1.0,0.0,0.0,,0.4,0.4,1.0,0.024,15,0.8,201580,"McGee, JaVale",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,19
+20,0.33,0.4,0.33,0.833,0.33,0.13,0.4,0.73,0.47,0.636,0.105,15,3.53,2738,"Iguodala, Andre",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,20
+21,0.27,0.33,0.33,1.0,0.0,0.0,,0.33,0.33,1.0,0.06,15,2.0,2733,"Livingston, Shaun",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,21
+22,0.27,0.4,0.27,0.667,0.0,0.0,,0.4,0.27,0.667,0.054,15,1.8,2585,"Pachulia, Zaza",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,22
+23,0.07,0.13,0.07,0.5,0.0,0.0,,0.13,0.07,0.5,0.034,15,1.13,2561,"West, David",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,23
+24,0.0,0.0,0.0,,0.13,0.0,0.0,0.13,0.0,0.0,0.004,15,0.13,2440,"Barnes, Matt",made,201142,"Durant, Kevin",Yes,GSW,1610612744,Golden State Warriors,Kevin Durant,24
+25,0.07,0.19,0.05,0.286,0.08,0.04,0.5,0.27,0.09,0.35,0.014,74,0.81,1627770,"Felder, Kay",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,25
+26,0.14,0.23,0.11,0.471,0.19,0.05,0.286,0.42,0.16,0.387,0.02,74,1.2,203895,"McRae, Jordan",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,26
+27,0.12,0.16,0.08,0.5,0.19,0.04,0.214,0.35,0.12,0.346,0.029,74,1.73,202732,"Liggins, DeAndre",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,27
+28,0.77,0.65,0.3,0.458,1.42,0.59,0.419,2.07,0.89,0.431,0.083,74,4.91,202697,"Shumpert, Iman",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,28
+29,0.77,1.2,0.84,0.697,0.0,0.0,,1.2,0.84,0.697,0.077,74,4.55,202684,"Thompson, Tristan",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,29
+30,0.24,0.19,0.16,0.857,0.15,0.08,0.545,0.34,0.24,0.72,0.016,74,0.95,202682,"Williams, Derrick",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,30
+31,1.11,3.09,1.65,0.533,2.0,0.7,0.351,5.09,2.35,0.462,0.267,74,15.8,202681,"Irving, Kyrie",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,31
+32,1.69,1.86,0.93,0.5,2.26,0.96,0.425,4.12,1.89,0.459,0.151,74,8.92,201567,"Love, Kevin",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,32
+33,0.11,0.24,0.09,0.389,0.22,0.08,0.375,0.46,0.18,0.382,0.038,74,2.24,101114,"Williams, Deron",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,33
+34,1.38,0.89,0.55,0.621,1.96,0.92,0.469,2.85,1.47,0.517,0.102,74,6.03,101112,"Frye, Channing",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,34
+35,0.65,0.3,0.11,0.364,1.58,0.58,0.368,1.88,0.69,0.367,0.067,74,3.93,2747,"Smith, JR",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,35
+36,0.74,0.36,0.19,0.519,1.12,0.57,0.506,1.49,0.76,0.509,0.048,74,2.85,2594,"Korver, Kyle",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,36
+37,0.07,0.03,0.01,0.5,0.09,0.05,0.571,0.12,0.07,0.556,0.004,74,0.26,2592,"Jones, James",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,37
+38,0.12,0.12,0.04,0.333,0.22,0.08,0.375,0.34,0.12,0.36,0.015,74,0.91,2399,"Dunleavy, Mike",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,38
+39,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,74,0.03,2365,"Andersen, Chris",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,39
+40,0.76,0.74,0.53,0.709,0.8,0.26,0.322,1.54,0.78,0.509,0.068,74,4.0,2210,"Jefferson, Richard",made,2544,"James, LeBron",,CLE,1610612739,Cleveland Cavaliers,LeBron James,40
+41,0.28,0.44,0.17,0.375,0.5,0.17,0.333,0.94,0.33,0.353,0.032,18,2.0,202697,"Shumpert, Iman",made,2544,"James, LeBron",Yes,CLE,1610612739,Cleveland Cavaliers,LeBron James,41
+42,0.83,1.39,0.83,0.6,0.0,0.0,,1.39,0.83,0.6,0.097,18,6.06,202684,"Thompson, Tristan",made,2544,"James, LeBron",Yes,CLE,1610612739,Cleveland Cavaliers,LeBron James,42
+43,1.22,4.83,2.44,0.506,2.39,0.94,0.395,7.22,3.39,0.469,0.304,18,18.89,202681,"Irving, Kyrie",made,2544,"James, LeBron",Yes,CLE,1610612739,Cleveland Cavaliers,LeBron James,43
+44,1.94,2.39,1.0,0.419,3.0,1.28,0.426,5.39,2.28,0.423,0.193,18,12.0,201567,"Love, Kevin",made,2544,"James, LeBron",Yes,CLE,1610612739,Cleveland Cavaliers,LeBron James,44
+45,0.39,0.28,0.11,0.4,0.78,0.33,0.429,1.06,0.44,0.421,0.094,18,5.83,101114,"Williams, Deron",made,2544,"James, LeBron",Yes,CLE,1610612739,Cleveland Cavaliers,LeBron James,45
+46,0.44,0.28,0.17,0.6,0.61,0.28,0.455,0.89,0.44,0.5,0.043,18,2.67,101112,"Frye, Channing",made,2544,"James, LeBron",Yes,CLE,1610612739,Cleveland Cavaliers,LeBron James,46
+47,1.44,0.5,0.28,0.556,2.22,1.22,0.55,2.72,1.5,0.551,0.119,18,7.39,2747,"Smith, JR",made,2544,"James, LeBron",Yes,CLE,1610612739,Cleveland Cavaliers,LeBron James,47
+48,0.94,0.22,0.22,1.0,1.94,0.72,0.371,2.17,0.94,0.436,0.068,18,4.22,2594,"Korver, Kyle",made,2544,"James, LeBron",Yes,CLE,1610612739,Cleveland Cavaliers,LeBron James,48
+49,0.33,0.5,0.28,0.556,0.56,0.11,0.2,1.06,0.39,0.368,0.049,18,3.06,2210,"Jefferson, Richard",made,2544,"James, LeBron",Yes,CLE,1610612739,Cleveland Cavaliers,LeBron James,49
+50,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,79,0.03,2004318071," ,",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,50
+51,0.22,0.23,0.14,0.611,0.33,0.1,0.308,0.56,0.24,0.432,0.052,79,2.7,1627775,"McCaw, Patrick",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,51
+52,0.11,0.18,0.11,0.643,0.0,0.0,,0.18,0.11,0.643,0.016,79,0.85,1626172,"Looney, Kevon",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,52
+53,0.09,0.14,0.09,0.636,0.0,0.0,,0.14,0.09,0.636,0.012,79,0.63,203949,"McAdoo, James Michael",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,53
+54,0.18,0.27,0.1,0.381,0.25,0.09,0.35,0.52,0.19,0.366,0.033,79,1.72,203546,"Clark, Ian",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,54
+55,0.89,1.35,0.68,0.505,0.86,0.28,0.324,2.22,0.96,0.434,0.265,79,13.82,203110,"Green, Draymond",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,55
+56,1.63,1.77,0.94,0.529,1.76,0.85,0.482,3.53,1.78,0.505,0.148,79,7.71,202691,"Thompson, Klay",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,56
+57,0.56,0.89,0.59,0.671,0.0,0.0,,0.89,0.59,0.671,0.036,79,1.87,201580,"McGee, JaVale",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,57
+58,1.25,2.08,1.23,0.591,1.16,0.44,0.38,3.24,1.67,0.516,0.161,79,8.41,201142,"Durant, Kevin",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,58
+59,0.01,0.03,0.01,0.5,0.0,0.0,,0.03,0.01,0.5,0.006,79,0.3,2760,"Varejao, Anderson",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,59
+60,0.62,0.58,0.39,0.674,0.51,0.24,0.475,1.09,0.63,0.581,0.097,79,5.09,2738,"Iguodala, Andre",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,60
+61,0.14,0.27,0.2,0.762,0.01,0.01,1.0,0.28,0.22,0.773,0.037,79,1.91,2733,"Livingston, Shaun",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,61
+62,0.66,1.15,0.72,0.626,0.0,0.0,,1.15,0.72,0.626,0.099,79,5.18,2585,"Pachulia, Zaza",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,62
+63,0.11,0.2,0.11,0.563,0.01,0.01,1.0,0.22,0.13,0.588,0.018,79,0.94,2561,"West, David",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,63
+64,0.15,0.14,0.1,0.727,0.11,0.06,0.556,0.25,0.16,0.65,0.02,79,1.05,2440,"Barnes, Matt",made,201939,"Curry, Stephen",,GSW,1610612744,Golden State Warriors,Stephen Curry,64
+65,0.29,0.41,0.24,0.571,0.06,0.06,1.0,0.47,0.29,0.625,0.045,17,2.35,1627775,"McCaw, Patrick",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,65
+66,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.001,17,0.06,203949,"McAdoo, James Michael",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,66
+67,0.12,0.06,0.06,1.0,0.12,0.06,0.5,0.18,0.12,0.667,0.011,17,0.59,203546,"Clark, Ian",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,67
+68,0.94,1.0,0.35,0.353,1.12,0.65,0.579,2.12,1.0,0.472,0.255,17,13.35,203110,"Green, Draymond",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,68
+69,1.18,1.24,0.59,0.476,1.65,0.82,0.5,2.88,1.41,0.49,0.134,17,7.0,202691,"Thompson, Klay",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,69
+70,0.41,0.59,0.41,0.7,0.0,0.0,,0.59,0.41,0.7,0.038,17,2.0,201580,"McGee, JaVale",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,70
+71,1.94,3.0,1.94,0.647,1.82,0.82,0.452,4.82,2.76,0.573,0.205,17,10.76,201142,"Durant, Kevin",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,71
+72,0.76,0.94,0.71,0.75,0.71,0.24,0.333,1.65,0.94,0.571,0.135,17,7.06,2738,"Iguodala, Andre",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,72
+73,0.24,0.71,0.35,0.5,0.0,0.0,,0.71,0.35,0.5,0.062,17,3.24,2733,"Livingston, Shaun",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,73
+74,0.59,1.24,0.59,0.476,0.0,0.0,,1.24,0.59,0.476,0.083,17,4.35,2585,"Pachulia, Zaza",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,74
+75,0.24,0.29,0.24,0.8,0.0,0.0,,0.29,0.24,0.8,0.025,17,1.29,2561,"West, David",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,75
+76,0.06,0.12,0.06,0.5,0.06,0.0,0.0,0.18,0.06,0.333,0.007,17,0.35,2440,"Barnes, Matt",made,201939,"Curry, Stephen",Yes,GSW,1610612744,Golden State Warriors,Stephen Curry,76

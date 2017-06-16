@@ -15,29 +15,20 @@ def gen_dfs(*playernames):
         first_last = name.split()
         players.append(get_player(first_last[0], first_last[-1]))
 
-    print("Pulling Data:")
+    print("Pulling Data from nba.stats.com...")
     # create dictionary with all data frames
     player_stats = dict()
-    print("Pulling Shooting Splits...")
+
     player_stats["Shooting Splits"] = shooting_splits(players)
-    print("Pulling Shot Types...")
     player_stats["Shot Types"] = shot_types(players)
-    print("Pulling Touch Time...")
     player_stats["Touch Time"] = touch_time(players)
-    print("Pulling Assisted Shots...")
     player_stats["Assisted Shots"] = assisted_shots(players)
-    print("Pulling Assisted By...")
-    player_stats["Assisted By"] = assisted_by(players)
-    print("Pulling Passes Made...")
     player_stats["Passes Made"] = passes_made(players)
-    print("Pulling Closest Defender...")
     player_stats["Closest Defender"] = closest_defender(players)
-    print("Pulling Contested Rebounding...")
     player_stats["Contested Rebounding"] = contested_rebounds(players)
-    print("Pulling Opponent Splits...")
     player_stats["Opponent Splits"] = opponent_splits(players)
-    print("Pulling Defensive Summary...")
     player_stats["Defensive Summary"] = defense_summ(players)
+    player_stats["Assisted By"] = assisted_by(players)
 
     return player_stats
 
@@ -302,26 +293,15 @@ def defense_summ(players):
     return stats_df
 
 
-'''
---player_shooting_splits.shot_types_summary()
---player_shooting_splits.assisted_shots()
---player_shooting_splits.assisted_by()
---player_shot_tracking.closest_defender_shooting()
---player_shot_tracking.touch_time_shooting()
---player_rebound_tracking.num_contested_rebounding()
---player_pass_tracking.passes_made()
---player_opponent_splits.by_opponent()
---player.PlayerDefenseTracking(kd).overall())
-'''
-
-
+# create CSVs for each data frame in a dictionary
 def make_csv(df_dict):
+    # create a folder for the CSVs
     makedirs(name="Player Stats", exist_ok=True)
+
+    # make each CSV, name the file after the key
     for key in df_dict:
-        df_dict[key].to_csv(path.join("Player Stats", r'test.csv'))
+        df_dict[key].to_csv(path.join("Player Stats", key+r'.csv'))
 
 if __name__ == "__main__":
     stats = gen_dfs("Kevin Durant", "Lebron James", "Stephen Curry")
-    cont = str(input("Create CSVs? y/n:"))
-    if cont == "y":
-        make_csv(stats)
+    make_csv(stats)

@@ -1,0 +1,19 @@
+,EFG_PCT,FG2A,FG2A_FREQUENCY,FG2M,FG2_PCT,FG3A,FG3A_FREQUENCY,FG3M,FG3_PCT,FGA,FGA_FREQUENCY,FGM,FG_PCT,G,GP,PLAYER_ID,PLAYER_NAME_LAST_FIRST,Playoff,SORT_ORDER,TOUCH_TIME_RANGE,Name,ID
+0,0.657,5.58,0.335,3.79,0.679,3.65,0.219,1.52,0.416,9.23,0.554,5.31,0.575,62,62,201142,"Durant, Kevin",,1,Touch < 2 Seconds,Kevin Durant,0
+1,0.517,4.44,0.266,2.34,0.527,1.16,0.07,0.37,0.319,5.6,0.336,2.71,0.484,61,62,201142,"Durant, Kevin",,2,Touch 2-6 Seconds,Kevin Durant,1
+2,0.504,1.58,0.095,0.92,0.582,0.24,0.015,0.0,0.0,1.82,0.109,0.92,0.504,50,62,201142,"Durant, Kevin",,3,Touch 6+ Seconds,Kevin Durant,2
+3,0.659,4.53,0.255,3.0,0.662,3.67,0.206,1.6,0.436,8.2,0.461,4.6,0.561,15,15,201142,"Durant, Kevin",Yes,1,Touch < 2 Seconds,Kevin Durant,3
+4,0.596,5.67,0.318,3.33,0.588,1.27,0.071,0.53,0.421,6.93,0.39,3.87,0.558,15,15,201142,"Durant, Kevin",Yes,2,Touch 2-6 Seconds,Kevin Durant,4
+5,0.625,1.87,0.105,1.07,0.571,0.8,0.045,0.4,0.5,2.67,0.15,1.47,0.55,11,15,201142,"Durant, Kevin",Yes,3,Touch 6+ Seconds,Kevin Durant,5
+6,0.726,3.59,0.198,2.82,0.786,1.66,0.092,0.66,0.398,5.26,0.29,3.49,0.663,74,74,2544,"James, LeBron",,1,Touch < 2 Seconds,LeBron James,6
+7,0.545,5.0,0.276,2.84,0.568,1.47,0.081,0.46,0.312,6.47,0.357,3.3,0.509,72,74,2544,"James, LeBron",,2,Touch 2-6 Seconds,LeBron James,7
+8,0.537,4.92,0.271,2.61,0.53,1.49,0.082,0.55,0.373,6.41,0.353,3.16,0.494,74,74,2544,"James, LeBron",,3,Touch 6+ Seconds,LeBron James,8
+9,0.72,4.11,0.193,3.28,0.797,1.83,0.086,0.67,0.364,5.94,0.279,3.94,0.664,17,18,2544,"James, LeBron",Yes,1,Touch < 2 Seconds,LeBron James,9
+10,0.57,4.67,0.219,2.56,0.548,1.72,0.081,0.72,0.419,6.39,0.299,3.28,0.513,18,18,2544,"James, LeBron",Yes,2,Touch 2-6 Seconds,LeBron James,10
+11,0.596,6.61,0.31,3.78,0.571,2.39,0.112,1.06,0.442,9.0,0.422,4.83,0.537,18,18,2544,"James, LeBron",Yes,3,Touch 6+ Seconds,LeBron James,11
+12,0.634,2.78,0.151,1.61,0.577,5.77,0.313,2.54,0.441,8.56,0.464,4.15,0.485,79,79,201939,"Curry, Stephen",,1,Touch < 2 Seconds,Stephen Curry,12
+13,0.517,3.59,0.195,1.82,0.507,2.72,0.148,0.96,0.353,6.32,0.342,2.78,0.441,78,79,201939,"Curry, Stephen",,2,Touch 2-6 Seconds,Stephen Curry,13
+14,0.548,2.0,0.108,1.06,0.532,1.57,0.085,0.59,0.379,3.57,0.194,1.66,0.465,75,79,201939,"Curry, Stephen",,3,Touch 6+ Seconds,Stephen Curry,14
+15,0.651,1.88,0.103,1.18,0.625,4.53,0.248,2.0,0.442,6.41,0.35,3.18,0.495,17,17,201939,"Curry, Stephen",Yes,1,Touch < 2 Seconds,Stephen Curry,15
+16,0.609,3.18,0.174,1.88,0.593,3.82,0.209,1.59,0.415,7.0,0.383,3.47,0.496,17,17,201939,"Curry, Stephen",Yes,2,Touch 2-6 Seconds,Stephen Curry,16
+17,0.506,3.18,0.174,1.59,0.5,1.71,0.093,0.59,0.345,4.88,0.267,2.18,0.446,17,17,201939,"Curry, Stephen",Yes,3,Touch 6+ Seconds,Stephen Curry,17
